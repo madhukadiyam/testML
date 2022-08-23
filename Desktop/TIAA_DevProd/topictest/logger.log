@@ -1,0 +1,17 @@
+INFO:root:Models are loaded successfully
+INFO:root:Data has been loaded into dataframe...
+INFO:root:Data preprocesising completed
+ERROR:root:Unable to perform the prediction..'Doc2Vec' object has no attribute 'dv'
+INFO:root:Models are loaded successfully
+INFO:root:Data has been loaded into dataframe...
+INFO:root:Data preprocesising completed
+ERROR:root:Unable to perform the prediction..'Doc2Vec' object has no attribute 'dv'
+INFO:root:Models are loaded successfully
+INFO:root:Data has been loaded into dataframe...
+INFO:root:Data preprocesising completed
+ERROR:root:Unable to perform the prediction..'Doc2Vec' object has no attribute 'dv'
+INFO:root:Models are loaded successfully
+INFO:root:Data has been loaded into dataframe...
+INFO:root:Data preprocesising completed
+INFO:gensim.models.keyedvectors:precomputing L2-norms of doc weight vectors
+INFO:root:Model prediction completed

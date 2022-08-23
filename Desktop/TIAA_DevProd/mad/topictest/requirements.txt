@@ -1,0 +1,13 @@
+pandas
+numpy
+top2vec==1.0.26
+gensim==3.8.3
+spacy
+pandas-gbq
+matplotlib
+google-cloud
+google-cloud-storage
+google-cloud-bigquery
+scikit-learn
+flask
+gunicorn
